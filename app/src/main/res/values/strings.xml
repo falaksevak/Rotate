@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Rotate</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="toggle_button_state_off">OFF</string>
+    <string name="toggle_button_state_on">ON</string>
+    <string name="text_toggle_button_title">Rotate Service</string>
 </resources>

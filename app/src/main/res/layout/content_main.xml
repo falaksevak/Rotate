@@ -9,7 +9,7 @@
     tools:showIn="@layout/activity_main">
 
     <ToggleButton
-        android:id="@+id/toggleButton"
+        android:id="@+id/toggle_start_service"
         style="@style/AppTheme"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -27,7 +27,7 @@
         android:layout_marginStart="8dp"
         android:text="@string/text_toggle_button_title"
         android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="@+id/toggleButton"
+        app:layout_constraintBottom_toBottomOf="@+id/toggle_start_service"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/toggleButton" />
+        app:layout_constraintTop_toTopOf="@+id/toggle_start_service" />
 </android.support.constraint.ConstraintLayout>
